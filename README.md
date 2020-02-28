@@ -1,2 +1,2 @@
 # PortScannerUltima
-PortScanner para Rede ou IP alvo
+Rodar o programa com "sudo" e seguir as instruções
