@@ -11,7 +11,7 @@ def main():
 
     if (mode == 1):
         ip = input("Digite o IP do alvo(ex: 172.20.10.3): ")
-        protocol_name = input("Digite o protocolo escolhido (TCP/UDP): ").lower()
+        protocol_name = "tcp"
         portas= input(
         "Selecione o Range das portas a serem escaneadas(ex 3:50), deixar vazio para todas: ")
         if len(portas) < 3:
